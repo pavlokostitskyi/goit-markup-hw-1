@@ -85,7 +85,6 @@ ul{
 .main-page-btn:hover,:focus{
     border-radius: 4px;
     background : #404BBF;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .sec-name{
     color: #2E2F42;
@@ -104,8 +103,7 @@ ul{
 }
 .team-card{
     border-radius: 0px 0px 4px 4px;
-    background: #FFF;
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+    background: #FFF;  
 }
 .our-team-title{
     color:#2E2F42;
